@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B39CD0&height=200&section=header&fontcolor=4B4453&text=!Hola¡&fontAlign=80&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontcolor=4B4453&text=!Hola¡&fontAlign=80&fontAlignY=40&fontColor=fff"/>
 
 ### 👋 me llamo Lee Hye young😉
 <a href="https://hits.seeyoufarm.com">
